@@ -23,11 +23,13 @@ var cart = const Cart(
   userId: userId,
   cartItems: [],
 );
+
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
+
   Stripe.publishableKey =
       'pk_test_51OoiDHB9kchhI5XggSN3bcxfm5WE9cPRTFnPV2g93tSRI0y3HzOxhIHtYik5qlcOLbBvgMyhC0UX0Dr4Vss1YhVF00ssLi8Ufi';
   await Stripe.instance.applySettings();
