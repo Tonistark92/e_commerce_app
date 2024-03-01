@@ -37,6 +37,8 @@ The `db_client` package is a custom package located in the `packages/db_client` 
 ```bash
 git clone https://github.com/yourusername/ecommerce_app.git
 
+![IMG-20240301-WA0009](h![IMG-20240301-WA0010](https://github.com/Tonistark92/e_commerce_app/assets/86676102/ea4973c8-3443-4751-8072-63666cb9bcdf)
+ttps://github.com/Tonistark92/e_commerce_app/assets/86676102/b62e8bff-0242-4e03-b3a6-4fc03aded208)
 
-![IMG-20240301-WA0009](https://github.com/Tonistark92/e_commerce_app/assets/86676102/7d14ecfa-764f-49d3-b0de-b1ac374c22c2)
+
 
