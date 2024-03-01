@@ -30,15 +30,20 @@ This is a mobile e-commerce application developed using Flutter.
 The `db_client` package is a custom package located in the `packages/db_client` directory. This package contains client-side database logic for managing product data.
 
 
-## Installation
+
+![IMG-20240301-WA0009](https://github.com/Tonistark92/e_commerce_app/assets/86676102/753f4f03-ac6b-4a3c-a623-6cf6662ab1dd)
+![IMG-20240301-WA0010](https://github.com/Tonistark92/e_commerce_app/assets/86676102/db30b550-b524-4f75-9d0c-0024ff78a9eb)
+![IMG-20240301-WA0008](https://github.com/Tonistark92/e_commerce_app/assets/86676102/d8fb7ab6-c7e1-4379-a704-02e81fc64077)
+![IMG-20240301-WA0011](https://github.com/Tonistark92/e_commerce_app/assets/86676102/5a5962c4-44e0-4d30-a504-52cd995b22e0)
+
+
+  ## Installation
 
 1. Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/ecommerce_app.git
 
-![IMG-20240301-WA0009](h![IMG-20240301-WA0010](https://github.com/Tonistark92/e_commerce_app/assets/86676102/ea4973c8-3443-4751-8072-63666cb9bcdf)
-ttps://github.com/Tonistark92/e_commerce_app/assets/86676102/b62e8bff-0242-4e03-b3a6-4fc03aded208)
 
 
 
